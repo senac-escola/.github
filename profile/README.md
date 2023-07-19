@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="LOGO.webp" alt="Logo do projeto" >
+    <img src="./LOGO.webp" alt="Logo do projeto" >
 </p>
 
 Essa é a organização oficial do projeto Escola, uma aplicação web de gestão escolar, desenvolvida para o Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário Senac, e conta com repositórios para o frontend, backend, banco de dados, e documentação.
